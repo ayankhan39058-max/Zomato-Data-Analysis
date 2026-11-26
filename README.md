@@ -35,10 +35,15 @@ Answered 6 questions with visualizations
 Questions and Insights
 #	Question	Chart	Insight
 1	What type of restaurants are most common?	Count Plot	Most restaurants are Dining type
+
 2	Which type of restaurant gets the most votes?	Line Graph	Dining restaurants are preferred by the largest number of people
+
 3	What ratings do most restaurants get?	Histogram	Most restaurants are rated between 3.5 and 4
+
 4	What cost do couples prefer?	Bar Graph (Count Plot)	Most couples prefer restaurants costing about ₹300 for two
+
 5	Do online orders get higher ratings than offline?	Box Plot	Online-order restaurants get higher ratings than offline ones
+
 6	Which restaurant types get more online vs offline orders?	Heatmap	Dining gets mostly offline orders, Cafes get mostly online orders
 
 Conclusion
